@@ -2,10 +2,10 @@ name: flutter_mordern_chat_ui
 
 description: A modern customizable messaging UI package for Flutter.
 
-version: 1.0.0
+version: 1.0.1
 
-homepage: https://github.com/yourusername/flutter_mordern_chat_ui
-repository: https://github.com/yourusername/flutter_mordern_chat_ui
+homepage: https://github.com/anumarif09/flutter_modern_chat_ui.git
+repository: https://github.com/anumarif09/flutter_modern_chat_ui.git
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -15,6 +15,7 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
+  flutter_lints: ^6.0.0
   flutter_test:
     sdk: flutter
 
