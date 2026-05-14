@@ -1,7 +1,9 @@
-## 1.0.0
+# Changelog
 
-- Initial release
-- Modern messaging UI
-- Chat bubbles
-- Responsive layout
-- Image messages
+## 1.0.1
+
+- Fixed Flutter analyzer issues
+- Renamed sidebar widget file
+- Improved package exports
+- Added documentation and example app
+- Improved package structure
