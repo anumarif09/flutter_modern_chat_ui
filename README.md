@@ -163,6 +163,15 @@ This package helps developers:
 - Improve app UI/UX experience
 
 ---
+Screenshots
+
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/28109fa0-a8ab-4220-9c5b-95b424e66b04" />
+
+
+<img width="688" height="816" alt="image" src="https://github.com/user-attachments/assets/1319f5af-e71a-46ba-81cf-e2cd662310b3" />
+
+
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/65cec9c0-d044-4e87-bc68-d3fcd14940c6" />
 
 
 Software Engineering Student at SZABIST  
