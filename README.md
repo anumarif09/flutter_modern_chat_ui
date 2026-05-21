@@ -6,6 +6,14 @@ Built with clean architecture, reusable widgets, responsive layouts, and smooth 
 
 ---
 
+
+# Group Member
+
+Anum Arif
+Muhammad Arham Shaikh
+Usman Nadeem
+Kirty Roy
+
 # ✨ Features
 
 - 🎨 Modern and clean chat interface
@@ -156,9 +164,6 @@ This package helps developers:
 
 ---
 
-# 👨‍💻 Author
-
-Anum Arif
 
 Software Engineering Student at SZABIST  
 Flutter & UI/UX Developer  
